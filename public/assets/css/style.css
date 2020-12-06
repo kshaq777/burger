@@ -1,0 +1,26 @@
+body {
+    background-color: rgb(235, 229, 180);
+}
+
+h1 {
+    text-align: center;
+    color:green;
+    margin: 3rem;
+}
+
+.btn-burger {
+    color: #fff;
+    background-color: #ac11db;
+    border-color: #ac11db;
+}
+
+#burgerList {
+    margin-top: 5rem;
+    background-color: white;
+    padding: 2rem;
+}
+
+#burgerList .btn {
+    margin: 0rem 1rem;
+}
+
